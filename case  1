@@ -256,7 +256,7 @@
 <body>
 
     <header>
-        <h1>🎓 LearnHub</h1>
+        <h1> LearnHub</h1>
 
         <nav>
             <a href="#home">Home</a>
@@ -275,18 +275,18 @@
     <main class="container">
 
         <section id="categories">
-            <h2 class="section-title">📚 Course Categories</h2>
+            <h2 class="section-title"> Course Categories</h2>
 
             <div class="categories">
-                <div class="category">💻 Web Development</div>
-                <div class="category">🐍 Python Programming</div>
-                <div class="category">🤖 Artificial Intelligence</div>
-                <div class="category">📊 Data Science</div>
+                <div class="category"> Web Development</div>
+                <div class="category"> Python Programming</div>
+                <div class="category"> Artificial Intelligence</div>
+                <div class="category"> Data Science</div>
             </div>
         </section>
 
         <section id="courses">
-            <h2 class="section-title">🌟 Popular Courses</h2>
+            <h2 class="section-title"> Popular Courses</h2>
 
             <div class="course-container">
 
